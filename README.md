@@ -6,7 +6,6 @@
 - 😄 Pronouns: Ms
 - ⚡ Fun fact: I'm a fresher
 
-<!---
 # Yuktha Pati - Data Science Enthusiast
 
 ## About Me
@@ -29,5 +28,3 @@ I am dedicated, detail-oriented, and ready to take on challenging roles that uti
 ## Contact
 - **Email**: patiyukta20@outlook.com
 - **LinkedIn**: [Yuktha Pati](https://www.linkedin.com/in/yuktha-pati)
-
---->
