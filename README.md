@@ -24,6 +24,9 @@ I am dedicated, detail-oriented, and ready to take on challenging roles that uti
 ### Vocabulum
 - **Description**: Built a website to help users learn a word meaning with an example.
 - **Technologies Used**: HTML, CSS, JavaScript
+### CP-ABE 
+- **Description**:Access control and effective revocation based on cipher text policy attribute for cloud data sharing
+- **Technologies used**: Python
 
 ## Contact
 - **Email**: patiyukta20@outlook.com
