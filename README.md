@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new stuff and executing it...
 - 🌱 I’m currently learning Machine leaning
 - 💞️ I’m looking to collaborate on real time problems
-- 📫 How to reach me-- patiyukta20@outlook.com 
+- 📫 How to reach me-- patiyukta20@gmail.com 
 - 😄 Pronouns: Ms
 - ⚡ Fun fact: I'm a fresher
 
