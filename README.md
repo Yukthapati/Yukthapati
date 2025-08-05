@@ -1,33 +1,79 @@
-- 👋 Hi, I’m @Yukthapati
-- 👀 I’m interested in learning new stuff and executing it...
-- 🌱 I’m currently learning Machine leaning
-- 💞️ I’m looking to collaborate on real time problems
-- 📫 How to reach me-- patiyukta20@gmail.com 
-- 😄 Pronouns: Ms
-- ⚡ Fun fact: I'm a fresher
+# 👩‍💼 Yuktha Pati – Data Analyst Enthusiast | Insight Seeker | ML Explorer
 
-# Yuktha Pati - Data Science Enthusiast
+> “Where others see numbers, I see narratives.”
 
-## About Me
-I am a Data Science student eager to apply my skills and knowledge in real-world projects.
-I am dedicated, detail-oriented, and ready to take on challenging roles that utilize my academic learning and practical skills.
+Welcome! I’m **Yuktha Pati**, a passionate Data Analyst and ML enthusiast, on a mission to extract meaning from complexity and turn raw data into strategic insights. I believe in solving real-world problems through smart analytics, automation, and machine learning.
 
-## Skills
-- **Programming**: Python, Java, C Language, HTML, MySQL
-- **Data Science**: Machine Learning with Python
-- **Soft Skills**: Observation, Decision Making, Communication, Multi-tasking, Leadership
+---
 
-## Projects
-### Crowd Management
-- **Description**: Developed a system to accurately count people using Machine Learning and OpenCV2.
-- **Technologies Used**: Python, OpenCV2
-### Vocabulum
-- **Description**: Built a website to help users learn a word meaning with an example.
-- **Technologies Used**: HTML, CSS, JavaScript
-### CP-ABE 
-- **Description**:Access control and effective revocation based on cipher text policy attribute for cloud data sharing
-- **Technologies used**: Python
+## 📊 About Me
 
-## Contact
-- **Email**: patiyukta20@outlook.com
-- **LinkedIn**: [Yuktha Pati](https://www.linkedin.com/in/yuktha-pati)
+- 🎓 Bachelor’s in Computer Science (Specialization: Data Science)
+- 🔎 Focused on: Data Analysis, ML Modeling, Business Intelligence, Data Storytelling
+- 🌱 Currently Exploring: Generative AI | Advanced SQL | Cloud-based Data Pipelines
+- 📍 Based in India | Open to global opportunities & collaborations
+
+---
+
+## 🧠 Core Skills
+
+| Category             | Technologies & Tools                              |
+|----------------------|----------------------------------------------------|
+| 📈 Data Analysis      | Pandas, NumPy, Excel, SQL, Google Sheets           |
+| 📊 Visualization      | Matplotlib, Seaborn, Plotly, Power BI, Tableau     |
+| 🧠 Machine Learning   | Scikit-learn, OpenCV, Decision Trees               |
+| 🗄️ Data Management    | MySQL, SQLite, Firebase                            |
+| ⚙️ Other Tools        | Python, FastAPI, GitHub, Jupyter Notebook          |
+| ☁️ Cloud Platforms    | Google Cloud (ACE), AWS, Salesforce                |
+| 💬 Soft Skills        | Communication, Leadership, Critical Thinking       |
+
+---
+
+## 🧪 Featured Projects
+
+### 🕵️‍♀️ User Anomaly Detection  
+Detect bots, fake users & spam based on behavioral patterns in user activity logs.  
+→ `Python | Pandas | MySQL | Scikit-learn`
+
+### 🌾 AgriCure – Smart Farming Intelligence  
+End-to-end crop suggestion + pest detection + e-store for Indian farmers.  
+→ `ML | Flask | SQLite | Web Tech`
+
+### 🗣️ PitchSense-AI  
+AI-powered feedback tool for pitch coaching using Whisper + Gemini Pro.  
+→ `FastAPI | LLMs | OpenAI APIs`
+
+### 🔐 CP-ABE (Access Control System)  
+Fine-grained cloud data sharing with Ciphertext Policy Attribute-Based Encryption.  
+→ `Python | Security-focused Encryption`
+
+### 📚 Vocabulam  
+Interactive platform for word learning with example-based retention.  
+→ `JavaScript | HTML | CSS`
+
+### 🌦️ Weather App  
+Clean weather forecasting UI using public APIs.  
+→ `JavaScript | WeatherAPI`
+
+---
+
+## 🏆 Highlights
+
+- 🎖️ Google Cloud Certified Associate Cloud Engineer (ACE)
+- 🥇 Hackathon Winner: Crowd Management with OpenCV
+- 🧠 DevFest Attendee (GenAI, AI/ML Sessions)
+- 🎤 PRISM 2K25 Cultural Fest Coordinator
+- 🎶 Club Lead @ Basement Blues – bringing rhythm to data!
+
+---
+
+## 🤝 Let’s Connect!
+
+- 📫 Email: patiyukta20@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/yuktha-pati](https://linkedin.com/in/yuktha-pati)  
+- 💻 Portfolio: Coming Soon  
+- 🧠 GitHub: [@Yukthapati](https://github.com/Yukthapati)
+
+---
+
+> ✨ Crafted with curiosity, caffeine, and clean code.
