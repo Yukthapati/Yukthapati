@@ -1,4 +1,8 @@
-# 👩‍💼 Yuktha Pati – Data Analyst Enthusiast | Insight Seeker | ML Explorer
+<h1 align="center">👩‍💼 Yuktha Pati</h1>
+<h3 align="center">Data Analyst | Insight Architect | ML Explorer</h3>
+
+<p align="center"><em>“Turning raw data into meaningful stories.”</em></p>
+
 
 > “Where others see numbers, I see narratives.”
 
